@@ -1,0 +1,5 @@
+{
+  "name": "Digital Diary",
+  "description": "A personal digital diary to write down thoughts, tasks, and goals. Entries are styled like real diary pages and feature a page-tearing animation upon deletion.",
+  "requestFramePermissions": []
+}
